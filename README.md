@@ -36,13 +36,13 @@ The main requirements that guided the design and implementation of the URL short
 │   │   │               │   └── UrlRepository.java
 │   │   │               └── service
 │   │   │               │    └── UrlService.java
-│	│	│				└──ShortenUrlApplication.java
+│	  │	  │				        └──ShortenUrlApplication.java
 │   │   └── resources
-│   │   │   ├── static
-│	│	│	│ 	└── index.html
-│	│	│	└── templates
-│   │   │       ├── application.properties
-│   │   │       └── data.sql
+│   │       ├── static
+│	  │	  	  │ 	      └── index.html
+│	  │	      └── templates
+│   │          ├── application.properties
+│   │          └── data.sql
 │   └── test
 │       └── java
 │           └── com
