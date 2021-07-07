@@ -60,7 +60,7 @@ The main requirements that guided the design and implementation of the URL short
 * [Spring Boot](http://spring.io/projects/spring-boot) for creating the RESTful Web Services
 * [MockMVC](https://spring.io/guides/gs/testing-web/) for testing the Web Layer
 * [Mockito](https://site.mockito.org/) for testing the Services Layer
-* [H2](https://www.postgresql.org/) as in memory database
+* [H2](https://www.h2database.com/) as in memory database
 * [Maven](https://maven.apache.org/) for managing the project's build
 
 ## Usage
